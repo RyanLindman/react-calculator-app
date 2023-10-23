@@ -1,12 +1,21 @@
-import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
+
 import './App.css'
 
 function App() {
 
   return (
     <>
+    <div className='main-container'>
+      <div className='card-container'>
+        <div className='card1'>card 1</div>
+        <div className='card2'>card 2</div>
+      </div>
+    
+  
+      
+
+
+    </div>
       
     </>
   )

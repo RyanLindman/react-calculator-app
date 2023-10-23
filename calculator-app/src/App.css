@@ -1,0 +1,40 @@
+html {
+  background-color: black;
+  margin: 0;
+  padding: 0;
+}
+
+.main-container {
+
+display: flex;
+justify-content: space-evenly;
+padding: 20px;
+height: 90vh;
+
+background-color: #242424;
+}
+.card-container {
+  background-color: #edf;
+  display:flex;
+  justify-content: space-evenly;
+  width: 700px;
+  border-radius: 10px;
+
+
+}
+
+.card1 {
+  background-color: #edf;
+  width: 325px;
+  margin: 10px;
+  padding: 10px;
+}
+
+.card2 {
+  background-color: aqua;
+  width: 325px;
+  margin: 10px;
+  padding: 10px;
+  border-radius: 10px;
+
+}
